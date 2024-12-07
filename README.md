@@ -5,7 +5,7 @@ _A Data Scientist passionate about Machine Learning and Deep Learning._
 ---
 
 ## About Me
-- 🔭 I’m currently working at **Accenture India**
+- 🔭 I’m currently working at **Clairvoyant as a Data Analyst**
 - 🎓 Studied at **Jadavpur University**
 - 🌱 I’m currently learning **Advanced Deep Learning Techniques**
 - 💬 Ask me about **Data Science, Machine Learning, and Natural Language Processing**
