@@ -34,7 +34,7 @@ Here are some of my notable projects:
 
 - **[ML-from-scratch](https://github.com/sad1998/ML-from-scratch):** Implementing Machine Learning Algorithms without using Python ML Libraries.
 - **[Movie Recommender System](https://github.com/sad1998/movie-recommender-system-app):** This is a content based movie recommender system web application.
-- **[Olympic Data Analysis with webapp](https://github.com/sad1998/Olympic-Data-Analysis):**End to end Data Analysis of Summer Olypmics.
+- **[**Olympic Data Analysis with webapp**](https://github.com/sad1998/Olympic-Data-Analysis):**End to end Data Analysis of Summer Olypmics.
 - **[Deep Learning Projects](https://github.com/sad1998/Deep-Learning-Projects):** Deep Learning Projects involving NLP and CNN.
 
 Feel free to explore these repositories to see my work in action!
