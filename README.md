@@ -29,13 +29,15 @@ _A Data Scientist passionate about Machine Learning and Deep Learning._
 
 ---
 
+---
+
 ## 🛠️ Projects
 Here are some of my notable projects:
 
-- **[ML-from-scratch](https://github.com/sad1998/ML-from-scratch):** Implementing Machine Learning Algorithms without using Python ML Libraries.
-- **[Movie Recommender System](https://github.com/sad1998/movie-recommender-system-app):** This is a content based movie recommender system web application.
-- **[**Olympic Data Analysis with webapp**](https://github.com/sad1998/Olympic-Data-Analysis):**End to end Data Analysis of Summer Olypmics.
-- **[Deep Learning Projects](https://github.com/sad1998/Deep-Learning-Projects):** Deep Learning Projects involving NLP and CNN.
+- **[Olympic Data Analysis](https://github.com/sad1998/Olympic-Data-Analysis):** A comprehensive analysis of Olympic data, uncovering insights and trends using data visualization techniques.
+- **[Movie Recommender System](https://github.com/sad1998/Movie-Recommender-System):** Built a personalized movie recommendation system leveraging collaborative filtering and content-based approaches.
+- **[Deep Learning Project](https://github.com/sad1998/Deep-Learning-Project):** An advanced deep learning project exploring neural networks for computer vision and natural language processing tasks.
+- **[ML from Scratch](https://github.com/sad1998/ML-from-scratch):** Implementing Machine Learning algorithms without libraries to understand their inner workings deeply.
 
 Feel free to explore these repositories to see my work in action!
 
