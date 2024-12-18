@@ -51,4 +51,3 @@ Feel free to explore these repositories to see my work in action!
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptaksadhya/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saptaksadhya)
